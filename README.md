@@ -1,4 +1,4 @@
-# Scripting language written in Haskell
+# Scripting language implemented in Haskell
 ## Written by: Anurag Suresh, Hamish Finn
 
 ## How to run
