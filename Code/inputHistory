@@ -1,0 +1,6 @@
+for(i = 0; i < 2; i++;){print(i);} 
+for(i = 0; i < 2; i++;){print(x);} 
+while(x && y > 3) {print("x == " ++ toString(x)); print("y == " ++ toString(y)); y--;}
+y = 5
+x = True
+while(x && y > 3) {print("x == " ++ toString(x)); print("y == " ++ toString(y)); y--;}

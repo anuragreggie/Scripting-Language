@@ -1,0 +1,4 @@
+x = 40
+print x
+y = 54
+print ("Result is " ++ toString(x + toInt(y)))
