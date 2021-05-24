@@ -1,5 +1,5 @@
 # Scripting language implemented in Haskell
-## Written by: Anurag Suresh, Hamish Finn
+## Authors: Anurag Suresh and Hamish Finn
 
 ## How to run
 
